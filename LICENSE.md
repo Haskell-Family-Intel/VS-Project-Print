@@ -22,7 +22,7 @@ This agreement shall be governed and construed in accordance with the laws of th
 For permissions or inquiries, contact Haskell Family Intel at [HaskellFamilyIntel@protonmail.com](mailto:HaskellFamilyIntel@protonmail.com). By using the Software, you agree to these terms. ✉️
 
 **Last Updated**: September 19, 2025  
-**Version**: 1.0  
+**Version**: 1.2  
 **© 2025 Haskell Family Intel. All Rights Reserved.** 📆🖋️📜
 
 ## Contact 📧
