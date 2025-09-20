@@ -115,9 +115,8 @@ Your project stays private—100% offline. 🌐❌
 - **Large projects**: Use the GUI to selectively export only the relevant files. 📊
 
 For permissions or inquiries, contact Haskell Family Intel at [HaskellFamilyIntel@protonmail.com](mailto:HaskellFamilyIntel@protonmail.com). By using the Software, you agree to these terms. ✉️
-
-**Last Updated**: January 15, 2025  
-**Version**: 1.0  
+  
+**Version**: 1.2  
 **© 2025 Haskell Family Intel. All Rights Reserved.** 📆🖋️📜
 
 ## Contact 📧
