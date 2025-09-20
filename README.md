@@ -4,7 +4,7 @@
 
 ## Overview 📋
 
-**VS Project Print** is a Windows GUI tool (single executable) that scans a Visual Studio project directory for C++/C# sources and recent build logs, then exports a consolidated report as Markdown (`ProjectExport.md`) or plaintext (`ProjectExport.txt`). The tool performs all operations locally and does not transmit data. 🔒
+**VS Project Print** is a Windows GUI tool (single executable) that scans a Visual Studio project directory for C++/C# sources and recent build logs, then exports a consolidated report as Markdown (`ProjectExport.md`). The tool performs all operations locally and does not transmit data. 🔒
 
 This tool is perfect for developers who need a quick, offline way to bundle project code and build insights for documentation, sharing, or backups—without the hassle of manual copying.
 
