@@ -5,7 +5,7 @@
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software subject to the following conditions:
 
 ### Personal, Non-Commercial Use Only
-The Software may be used solely for personal, non-commercial purposes, including single-player GTA V modding and development activities. Any commercial use, including but not limited to selling, licensing, or incorporating the Software into products for profit, is strictly prohibited without prior written permission from Haskell Family Intel. 💼❌
+The Software may be used solely for personal, non-commercial purposes. Any commercial use, including but not limited to selling, licensing, or incorporating the Software into products for profit, is strictly prohibited without prior written permission from Haskell Family Intel. 💼❌
 
 ### No Redistribution or Derivative Works
 You may not redistribute, republish, modify, merge, sublicense, sell, or otherwise distribute the Software or any derivative works based upon the Software in any form without prior written permission from Haskell Family Intel. This includes sharing the Software on public repositories, forums, or other platforms. 🔄❌
